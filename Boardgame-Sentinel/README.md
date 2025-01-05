@@ -16,7 +16,7 @@ Boardgame Sentinel is a tool designed to fetch and monitor the prices of a given
 - Python
 
 ## Status
-This tool was developed to automate the monitoring of price changes for specific boardgames across selected vendor websites. However, frequent updates were required due to the highly dynamic nature of boardgame prices and their availability on these websites. Furthermore, the web scraping logic often needed adjustments to accommodate frequent changes in website layouts. As a result, the project was abandoned.
+This tool was developed to automate the monitoring of price changes for specific boardgames across selected vendor websites. However, frequent updates were required due to the highly dynamic nature of boardgame prices and their availability on these websites. Furthermore, the web scraping logic often needed adjustments to accommodate frequent changes in website layouts. As a result, the project was abandoned and sensitive data, such as API keys and credentials, is not hidden within the code.
 
 ### Main Files
 - **`sentinel_log.txt`**: Stores a log of the tool's checks for price changes.

@@ -5,12 +5,11 @@ from email.message import EmailMessage
 from datetime import datetime
 
 PARSE_SERVER_ID = "140692fb9cdff007be0b09aac072a02c84d92dbe"
-ALERT_EMAIL = "mcmiguel_95@hotmail.com"
-ALERT_EMAIL2 = "fabiomachuqueiro@gmail.com"
-SMTP_EMAIL = "mag.lourenco@campus.fct.unl.pt"
+ALERT_EMAIL = "receiver_email_1@example.com"
+ALERT_EMAIL2 = "receiver_email_1@example.com"
+SMTP_EMAIL = "sender_email@example.com"
 SMTP_PASS = "blhkzyepvamopdel"
 PATH = "/home/boardgame-sentinel/sentinel-log.txt"
-#PATH = "C:/Users/migue/Desktop/Boardgame Sentinel/sentinel-log.txt"
 
 updated_prices = []
 no_price_found_boardgames = []
