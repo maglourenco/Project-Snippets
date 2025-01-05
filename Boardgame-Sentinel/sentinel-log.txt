@@ -1,0 +1,48 @@
+2020-11-03 13:08:12.148109
+No price updates
+
+2020-11-03 13:17:22.253515
+No price updates
+
+2020-11-03 13:19:19.191079
+No price updates
+
+2020-11-03 13:19:19.449645
+No price updates
+
+2020-11-03 13:21:09.150354
+No price updates
+
+2020-11-03 13:21:09.160338
+[{"link": "https://dracotienda.com/juegos-de-tablero/23469-brass-birmingham.html", "shop_name": "Dracotienda", "status": "failed"}, {"link": "https://dracotienda.com/juegos-de-tablero/22453-wingspan-castellano.html", "shop_name": "Dracotienda", "status": "failed"}, {"link": "https://dracotienda.com/juegos-de-tablero/18159-clank-ingls.html", "shop_name": "Dracotienda", "status": "failed"}, {"link": "https://dracotienda.com/juegos-de-tablero/19547-terra-mystica-devir.html", "shop_name": "Dracotienda", "status": "failed"}, {"link": "https://dracotienda.com/juegos-de-tablero/18220-yamatai.html", "shop_name": "Dracotienda", "status": "failed"}, {"link": "https://dracotienda.com/juegos-de-tablero/16114-grand-austria-hotel-ingls.html", "shop_name": "Dracotienda", "status": "failed"}, {"link": "https://dracotienda.com/juegos-de-tablero/25793-gran-hotel-austria.html", "shop_name": "Dracotienda", "status": "failed"}, {"link": "https://dracotienda.com/juegos-de-tablero/25404-museum.html", "shop_name": "Dracotienda", "status": "failed"}]
+
+2020-11-03 13:34:39.697894
+No price updates
+
+2020-11-03 13:34:39.704871
+[{"link": "https://dracotienda.com/juegos-de-tablero/23469-brass-birmingham.html", "shop_name": "Dracotienda", "status": "failed"}, {"link": "https://dracotienda.com/juegos-de-tablero/22453-wingspan-castellano.html", "shop_name": "Dracotienda", "status": "failed"}, {"link": "https://dracotienda.com/juegos-de-tablero/18159-clank-ingls.html", "shop_name": "Dracotienda", "status": "failed"}, {"link": "https://dracotienda.com/juegos-de-tablero/19547-terra-mystica-devir.html", "shop_name": "Dracotienda", "status": "failed"}, {"link": "https://dracotienda.com/juegos-de-tablero/18220-yamatai.html", "shop_name": "Dracotienda", "status": "failed"}, {"link": "https://dracotienda.com/juegos-de-tablero/16114-grand-austria-hotel-ingls.html", "shop_name": "Dracotienda", "status": "failed"}, {"link": "https://dracotienda.com/juegos-de-tablero/25793-gran-hotel-austria.html", "shop_name": "Dracotienda", "status": "failed"}, {"link": "https://dracotienda.com/juegos-de-tablero/25404-museum.html", "shop_name": "Dracotienda", "status": "failed"}]
+
+2020-11-03 13:36:37.281858
+No price updates
+
+2020-11-03 15:19:33.657009
+No price updates
+
+2020-11-03 15:20:06.364275
+No price updates
+
+2020-11-03 16:48:30.683037
+No price updates
+
+2020-11-03 16:48:30.689039
+No errors finding boardgames prices
+
+2020-11-03 16:52:36.301804
+No price updates
+No errors finding boardgames prices
+
+2020-11-03 16:55:12.417305
+NEW UPDATED PRICES
+[{"objectId": "VuyMMFcdKq", "nome_jogo": "Yamatai", "nome_loja": "Dracotienda", "preco_antigo": 45, "preco_novo": 49.95, "price_var": "HIGHER"}]
+No errors finding boardgames prices
+

@@ -1,0 +1,1 @@
+"{\"Posto 55\": {\"address\": \" AVDA. DO CAVADO, S/N 4700-, PALMEIRA BGR - BRAGA \", \"lat\": \"null\", \"lng\": \"null\"}, \"Posto 121\": {\"address\": \" E.N. 222, KM 190, 600 - E LUGAR DE SEQUEIRA 5155-337, GUARDA - GUARDA \", \"lat\": \"null\", \"lng\": \"null\"}}"

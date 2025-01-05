@@ -1,0 +1,111 @@
+{
+    "results": [
+        {
+            "createdAt": "2020-10-15T19:00:28.531Z",
+            "favorito": true,
+            "nome_jogo": "Brass: Birmingham",
+            "objectId": "07HpolTjpM",
+            "updatedAt": "2020-10-19T13:02:01.182Z"
+        },
+        {
+            "createdAt": "2020-10-15T19:01:06.961Z",
+            "favorito": true,
+            "nome_jogo": "Wingspan",
+            "objectId": "UoMUGG4LGD",
+            "updatedAt": "2020-10-19T13:03:50.144Z"
+        },
+        {
+            "createdAt": "2020-10-15T19:01:19.556Z",
+            "favorito": true,
+            "nome_jogo": "Cartographers: A Roll Player Tale",
+            "objectId": "YEtU6nvsjl",
+            "updatedAt": "2020-10-19T11:52:19.776Z"
+        },
+        {
+            "ACL": {
+                "*": {
+                    "read": true,
+                    "write": true
+                },
+                "6dfcon2KF6": {
+                    "read": true,
+                    "write": true
+                }
+            },
+            "createdAt": "2020-11-21T22:16:47.067Z",
+            "favorito": false,
+            "nome_jogo": "Museum",
+            "objectId": "GfiXrB5GiD",
+            "updatedAt": "2020-11-21T22:16:47.067Z"
+        },
+        {
+            "ACL": {
+                "*": {
+                    "read": true,
+                    "write": true
+                },
+                "6dfcon2KF6": {
+                    "read": true,
+                    "write": true
+                }
+            },
+            "createdAt": "2020-11-21T22:16:55.964Z",
+            "favorito": false,
+            "nome_jogo": "Puerto Rico",
+            "objectId": "Hvluytvcxt",
+            "updatedAt": "2020-11-21T22:16:55.964Z"
+        },
+        {
+            "ACL": {
+                "*": {
+                    "read": true,
+                    "write": true
+                },
+                "6dfcon2KF6": {
+                    "read": true,
+                    "write": true
+                }
+            },
+            "createdAt": "2020-11-21T22:17:01.236Z",
+            "favorito": true,
+            "nome_jogo": "Yamatai",
+            "objectId": "dX5pJbvnlx",
+            "updatedAt": "2020-11-22T13:31:21.265Z"
+        },
+        {
+            "createdAt": "2020-11-21T22:20:29.280Z",
+            "favorito": true,
+            "nome_jogo": "Clank!",
+            "objectId": "pIhG2nyl34",
+            "updatedAt": "2020-11-21T22:20:31.851Z"
+        },
+        {
+            "createdAt": "2020-11-21T22:20:41.879Z",
+            "favorito": true,
+            "nome_jogo": "Gran Hotel Austria (ingl\u00eas)",
+            "objectId": "QLQ8P5TpMc",
+            "updatedAt": "2020-11-21T22:23:01.002Z"
+        },
+        {
+            "createdAt": "2020-11-21T22:20:53.357Z",
+            "favorito": false,
+            "nome_jogo": "Gran Hotel Austria",
+            "objectId": "DyXb4KDSEa",
+            "updatedAt": "2020-11-21T22:20:55.113Z"
+        },
+        {
+            "createdAt": "2020-11-21T22:21:05.421Z",
+            "favorito": true,
+            "nome_jogo": "Paladins of the West Kingdom",
+            "objectId": "pR2u3jge0F",
+            "updatedAt": "2020-11-21T22:21:07.837Z"
+        },
+        {
+            "createdAt": "2020-11-21T22:21:15.149Z",
+            "favorito": true,
+            "nome_jogo": "Terra Mystica",
+            "objectId": "271SecYsai",
+            "updatedAt": "2020-11-21T22:21:17.784Z"
+        }
+    ]
+}
